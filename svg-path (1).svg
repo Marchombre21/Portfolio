@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 410">
+	<path d="
+M400 150H650C650 150 750 150 750 250V500C750 500 750 560 800 560 
+M400 150H150C150 150 50 150 50 250V500C50 500 50 560 0 560
+M0 560H800" stroke="#FEC33B" strokeWidth="1" fill="none"/>
+</svg>
